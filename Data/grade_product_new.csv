@@ -1,0 +1,1337 @@
+year,grade,masterCategory,subCategory,total_item_price
+2017,BLONZE,Accessories,Accessories,2832877
+2017,BLONZE,Accessories,Bags,57676684
+2017,BLONZE,Accessories,Belts,12187346
+2017,BLONZE,Accessories,Cufflinks,1429350
+2017,BLONZE,Accessories,Eyewear,21382031
+2017,BLONZE,Accessories,Gloves,421187
+2017,BLONZE,Accessories,Headwear,6507097
+2017,BLONZE,Accessories,Jewellery,27370451
+2017,BLONZE,Accessories,Mufflers,76888
+2017,BLONZE,Accessories,Scarves,956016
+2017,BLONZE,Accessories,Shoe Accessories,404715
+2017,BLONZE,Accessories,Socks,11938488
+2017,BLONZE,Accessories,Stoles,3582636
+2017,BLONZE,Accessories,Ties,4637451
+2017,BLONZE,Accessories,Umbrellas,319935
+2017,BLONZE,Accessories,Wallets,21498165
+2017,BLONZE,Accessories,Watches,52234769
+2017,BLONZE,Accessories,Water Bottle,200367
+2017,BLONZE,Apparel,Apparel Set,2621915
+2017,BLONZE,Apparel,Bottomwear,50985089
+2017,BLONZE,Apparel,Dress,11679389
+2017,BLONZE,Apparel,Innerwear,33269409
+2017,BLONZE,Apparel,Loungewear and Nightwear,10306251
+2017,BLONZE,Apparel,Saree,7210577
+2017,BLONZE,Apparel,Socks,312352
+2017,BLONZE,Apparel,Topwear,306437299
+2017,BLONZE,Footwear,Flip Flops,14232206
+2017,BLONZE,Footwear,Sandal,18256779
+2017,BLONZE,Footwear,Shoes,131826349
+2017,BLONZE,Free Items,Free Gifts,2115027
+2017,BLONZE,Personal Care,Eyes,284930
+2017,BLONZE,Personal Care,Fragrance,19700906
+2017,BLONZE,Personal Care,Lips,7833950
+2017,BLONZE,Personal Care,Makeup,4538655
+2017,BLONZE,Personal Care,Nails,7209115
+2017,BLONZE,Personal Care,Skin,1422104
+2017,BLONZE,Personal Care,Skin Care,1332787
+2017,BLONZE,Sporting Goods,Sports Equipment,180279
+2017,BLONZE,Sporting Goods,Wristbands,360905
+2017,GOLD,Accessories,Accessories,10628671
+2017,GOLD,Accessories,Bags,232330360
+2017,GOLD,Accessories,Belts,59999099
+2017,GOLD,Accessories,Cufflinks,7010220
+2017,GOLD,Accessories,Eyewear,75679618
+2017,GOLD,Accessories,Gloves,745206
+2017,GOLD,Accessories,Headwear,19635928
+2017,GOLD,Accessories,Jewellery,86366959
+2017,GOLD,Accessories,Mufflers,2953410
+2017,GOLD,Accessories,Scarves,13061562
+2017,GOLD,Accessories,Shoe Accessories,1789679
+2017,GOLD,Accessories,Socks,55374740
+2017,GOLD,Accessories,Sports Accessories,205346
+2017,GOLD,Accessories,Stoles,6681260
+2017,GOLD,Accessories,Ties,20131310
+2017,GOLD,Accessories,Umbrellas,370658
+2017,GOLD,Accessories,Wallets,69307203
+2017,GOLD,Accessories,Watches,193617858
+2017,GOLD,Accessories,Water Bottle,202454
+2017,GOLD,Apparel,Apparel Set,8008258
+2017,GOLD,Apparel,Bottomwear,204567139
+2017,GOLD,Apparel,Dress,37164843
+2017,GOLD,Apparel,Innerwear,133317333
+2017,GOLD,Apparel,Loungewear and Nightwear,36483490
+2017,GOLD,Apparel,Saree,32544569
+2017,GOLD,Apparel,Socks,659278
+2017,GOLD,Apparel,Topwear,1158550744
+2017,GOLD,Footwear,Flip Flops,76020103
+2017,GOLD,Footwear,Sandal,69998953
+2017,GOLD,Footwear,Shoes,564978624
+2017,GOLD,Free Items,Free Gifts,10965847
+2017,GOLD,Personal Care,Beauty Accessories,422707
+2017,GOLD,Personal Care,Eyes,1985818
+2017,GOLD,Personal Care,Fragrance,74145567
+2017,GOLD,Personal Care,Hair,839325
+2017,GOLD,Personal Care,Lips,34964205
+2017,GOLD,Personal Care,Makeup,17572251
+2017,GOLD,Personal Care,Nails,28252280
+2017,GOLD,Personal Care,Perfumes,489123
+2017,GOLD,Personal Care,Skin,5418026
+2017,GOLD,Personal Care,Skin Care,5065612
+2017,GOLD,Sporting Goods,Sports Equipment,1673746
+2017,GOLD,Sporting Goods,Wristbands,304996
+2017,SILVER,Accessories,Accessories,8558807
+2017,SILVER,Accessories,Bags,129499882
+2017,SILVER,Accessories,Belts,31016394
+2017,SILVER,Accessories,Cufflinks,3418626
+2017,SILVER,Accessories,Eyewear,40672806
+2017,SILVER,Accessories,Gloves,568402
+2017,SILVER,Accessories,Headwear,9103110
+2017,SILVER,Accessories,Jewellery,41533555
+2017,SILVER,Accessories,Mufflers,759894
+2017,SILVER,Accessories,Scarves,2427746
+2017,SILVER,Accessories,Shoe Accessories,715892
+2017,SILVER,Accessories,Socks,27543500
+2017,SILVER,Accessories,Sports Accessories,291243
+2017,SILVER,Accessories,Stoles,4399554
+2017,SILVER,Accessories,Ties,10019964
+2017,SILVER,Accessories,Wallets,36506529
+2017,SILVER,Accessories,Watches,94671852
+2017,SILVER,Apparel,Apparel Set,3730686
+2017,SILVER,Apparel,Bottomwear,104111433
+2017,SILVER,Apparel,Dress,18785677
+2017,SILVER,Apparel,Innerwear,79126279
+2017,SILVER,Apparel,Loungewear and Nightwear,20193492
+2017,SILVER,Apparel,Saree,16936798
+2017,SILVER,Apparel,Socks,225558
+2017,SILVER,Apparel,Topwear,602913464
+2017,SILVER,Footwear,Flip Flops,35897247
+2017,SILVER,Footwear,Sandal,34998974
+2017,SILVER,Footwear,Shoes,307394840
+2017,SILVER,Free Items,Free Gifts,4899951
+2017,SILVER,Free Items,Vouchers,251390
+2017,SILVER,Personal Care,Bath and Body,198174
+2017,SILVER,Personal Care,Beauty Accessories,752640
+2017,SILVER,Personal Care,Eyes,2047222
+2017,SILVER,Personal Care,Fragrance,45990228
+2017,SILVER,Personal Care,Hair,704195
+2017,SILVER,Personal Care,Lips,23349741
+2017,SILVER,Personal Care,Makeup,9871342
+2017,SILVER,Personal Care,Nails,12734751
+2017,SILVER,Personal Care,Perfumes,694278
+2017,SILVER,Personal Care,Skin,811787
+2017,SILVER,Personal Care,Skin Care,2569392
+2017,SILVER,Sporting Goods,Sports Equipment,437140
+2017,VIP,Accessories,Accessories,13546923
+2017,VIP,Accessories,Bags,359520182
+2017,VIP,Accessories,Belts,96638836
+2017,VIP,Accessories,Cufflinks,11205744
+2017,VIP,Accessories,Eyewear,122406543
+2017,VIP,Accessories,Gloves,2608445
+2017,VIP,Accessories,Headwear,37961797
+2017,VIP,Accessories,Jewellery,126563113
+2017,VIP,Accessories,Mufflers,6058817
+2017,VIP,Accessories,Scarves,9914394
+2017,VIP,Accessories,Shoe Accessories,3293569
+2017,VIP,Accessories,Socks,74107668
+2017,VIP,Accessories,Sports Accessories,357722
+2017,VIP,Accessories,Stoles,11953183
+2017,VIP,Accessories,Ties,30672487
+2017,VIP,Accessories,Umbrellas,759680
+2017,VIP,Accessories,Wallets,110132597
+2017,VIP,Accessories,Watches,292026985
+2017,VIP,Accessories,Water Bottle,1488805
+2017,VIP,Apparel,Apparel Set,13076774
+2017,VIP,Apparel,Bottomwear,328966552
+2017,VIP,Apparel,Dress,55588820
+2017,VIP,Apparel,Innerwear,209572638
+2017,VIP,Apparel,Loungewear and Nightwear,49281699
+2017,VIP,Apparel,Saree,53835778
+2017,VIP,Apparel,Socks,2071293
+2017,VIP,Apparel,Topwear,1760188388
+2017,VIP,Footwear,Flip Flops,113933320
+2017,VIP,Footwear,Sandal,124134136
+2017,VIP,Footwear,Shoes,836421666
+2017,VIP,Free Items,Free Gifts,10469720
+2017,VIP,Personal Care,Bath and Body,797702
+2017,VIP,Personal Care,Beauty Accessories,813108
+2017,VIP,Personal Care,Eyes,6202430
+2017,VIP,Personal Care,Fragrance,117920975
+2017,VIP,Personal Care,Hair,3084053
+2017,VIP,Personal Care,Lips,56732744
+2017,VIP,Personal Care,Makeup,31907256
+2017,VIP,Personal Care,Nails,45242583
+2017,VIP,Personal Care,Perfumes,594735
+2017,VIP,Personal Care,Skin,8287690
+2017,VIP,Personal Care,Skin Care,8865754
+2017,VIP,Sporting Goods,Sports Equipment,1232194
+2017,VIP,Sporting Goods,Wristbands,420806
+2017,VVIP,Accessories,Accessories,4007705
+2017,VVIP,Accessories,Bags,84791552
+2017,VVIP,Accessories,Belts,20768519
+2017,VVIP,Accessories,Cufflinks,3034065
+2017,VVIP,Accessories,Eyewear,32954853
+2017,VVIP,Accessories,Gloves,782346
+2017,VVIP,Accessories,Headwear,8510256
+2017,VVIP,Accessories,Jewellery,33464465
+2017,VVIP,Accessories,Mufflers,681264
+2017,VVIP,Accessories,Scarves,3270943
+2017,VVIP,Accessories,Shoe Accessories,610113
+2017,VVIP,Accessories,Socks,20807790
+2017,VVIP,Accessories,Stoles,2553511
+2017,VVIP,Accessories,Ties,5291791
+2017,VVIP,Accessories,Umbrellas,211960
+2017,VVIP,Accessories,Wallets,28080563
+2017,VVIP,Accessories,Watches,87992554
+2017,VVIP,Apparel,Apparel Set,2646054
+2017,VVIP,Apparel,Bottomwear,83581317
+2017,VVIP,Apparel,Dress,13705617
+2017,VVIP,Apparel,Innerwear,54009619
+2017,VVIP,Apparel,Loungewear and Nightwear,15109476
+2017,VVIP,Apparel,Saree,13417998
+2017,VVIP,Apparel,Topwear,457035618
+2017,VVIP,Footwear,Flip Flops,26736482
+2017,VVIP,Footwear,Sandal,29124079
+2017,VVIP,Footwear,Shoes,209462053
+2017,VVIP,Free Items,Free Gifts,2692219
+2017,VVIP,Personal Care,Bath and Body,643128
+2017,VVIP,Personal Care,Eyes,1366884
+2017,VVIP,Personal Care,Fragrance,35268611
+2017,VVIP,Personal Care,Hair,707074
+2017,VVIP,Personal Care,Lips,15653793
+2017,VVIP,Personal Care,Makeup,10901785
+2017,VVIP,Personal Care,Nails,9699082
+2017,VVIP,Personal Care,Perfumes,175213
+2017,VVIP,Personal Care,Skin,2734470
+2017,VVIP,Personal Care,Skin Care,2356997
+2017,VVIP,Sporting Goods,Sports Equipment,146287
+2018,BLONZE,Accessories,Accessories,7844674
+2018,BLONZE,Accessories,Bags,117592212
+2018,BLONZE,Accessories,Belts,39229397
+2018,BLONZE,Accessories,Cufflinks,3010870
+2018,BLONZE,Accessories,Eyewear,41221613
+2018,BLONZE,Accessories,Gloves,766590
+2018,BLONZE,Accessories,Headwear,12782579
+2018,BLONZE,Accessories,Jewellery,42261226
+2018,BLONZE,Accessories,Mufflers,1902378
+2018,BLONZE,Accessories,Scarves,4715940
+2018,BLONZE,Accessories,Shoe Accessories,1617943
+2018,BLONZE,Accessories,Socks,23341160
+2018,BLONZE,Accessories,Stoles,3542732
+2018,BLONZE,Accessories,Ties,11627066
+2018,BLONZE,Accessories,Umbrellas,332068
+2018,BLONZE,Accessories,Wallets,39363505
+2018,BLONZE,Accessories,Watches,107181600
+2018,BLONZE,Accessories,Water Bottle,843847
+2018,BLONZE,Apparel,Apparel Set,4251274
+2018,BLONZE,Apparel,Bottomwear,106264989
+2018,BLONZE,Apparel,Dress,16440067
+2018,BLONZE,Apparel,Innerwear,72463884
+2018,BLONZE,Apparel,Loungewear and Nightwear,17020824
+2018,BLONZE,Apparel,Saree,15984310
+2018,BLONZE,Apparel,Socks,998425
+2018,BLONZE,Apparel,Topwear,654686727
+2018,BLONZE,Footwear,Flip Flops,37091090
+2018,BLONZE,Footwear,Sandal,38146963
+2018,BLONZE,Footwear,Shoes,288674069
+2018,BLONZE,Free Items,Free Gifts,2559955
+2018,BLONZE,Personal Care,Bath and Body,217421
+2018,BLONZE,Personal Care,Beauty Accessories,109887
+2018,BLONZE,Personal Care,Eyes,1966799
+2018,BLONZE,Personal Care,Fragrance,40374567
+2018,BLONZE,Personal Care,Hair,501764
+2018,BLONZE,Personal Care,Lips,21104675
+2018,BLONZE,Personal Care,Makeup,11180934
+2018,BLONZE,Personal Care,Nails,13746805
+2018,BLONZE,Personal Care,Skin,3436639
+2018,BLONZE,Personal Care,Skin Care,3688652
+2018,BLONZE,Sporting Goods,Sports Equipment,655936
+2018,GOLD,Accessories,Accessories,21814505
+2018,GOLD,Accessories,Bags,563334584
+2018,GOLD,Accessories,Belts,143006228
+2018,GOLD,Accessories,Cufflinks,18485949
+2018,GOLD,Accessories,Eyewear,199911628
+2018,GOLD,Accessories,Gloves,3599008
+2018,GOLD,Accessories,Headwear,45276062
+2018,GOLD,Accessories,Jewellery,190762968
+2018,GOLD,Accessories,Mufflers,5112759
+2018,GOLD,Accessories,Perfumes,315971
+2018,GOLD,Accessories,Scarves,22738951
+2018,GOLD,Accessories,Shoe Accessories,2657039
+2018,GOLD,Accessories,Socks,121831161
+2018,GOLD,Accessories,Sports Accessories,840918
+2018,GOLD,Accessories,Stoles,13581984
+2018,GOLD,Accessories,Ties,43562837
+2018,GOLD,Accessories,Umbrellas,1699154
+2018,GOLD,Accessories,Wallets,170289282
+2018,GOLD,Accessories,Watches,453686379
+2018,GOLD,Accessories,Water Bottle,949644
+2018,GOLD,Apparel,Apparel Set,15226847
+2018,GOLD,Apparel,Bottomwear,472838883
+2018,GOLD,Apparel,Dress,88238700
+2018,GOLD,Apparel,Innerwear,318548863
+2018,GOLD,Apparel,Loungewear and Nightwear,80894768
+2018,GOLD,Apparel,Saree,78023304
+2018,GOLD,Apparel,Socks,1974050
+2018,GOLD,Apparel,Topwear,2708573700
+2018,GOLD,Footwear,Flip Flops,154513779
+2018,GOLD,Footwear,Sandal,169559447
+2018,GOLD,Footwear,Shoes,1247689364
+2018,GOLD,Free Items,Free Gifts,17791293
+2018,GOLD,Free Items,Vouchers,215484
+2018,GOLD,Personal Care,Bath and Body,860348
+2018,GOLD,Personal Care,Beauty Accessories,410719
+2018,GOLD,Personal Care,Eyes,10660637
+2018,GOLD,Personal Care,Fragrance,173715658
+2018,GOLD,Personal Care,Hair,3608714
+2018,GOLD,Personal Care,Lips,93995854
+2018,GOLD,Personal Care,Makeup,57079714
+2018,GOLD,Personal Care,Nails,60849807
+2018,GOLD,Personal Care,Perfumes,519314
+2018,GOLD,Personal Care,Skin,13405272
+2018,GOLD,Personal Care,Skin Care,12076786
+2018,GOLD,Sporting Goods,Sports Equipment,3217018
+2018,GOLD,Sporting Goods,Wristbands,354327
+2018,SILVER,Accessories,Accessories,10836821
+2018,SILVER,Accessories,Bags,279619617
+2018,SILVER,Accessories,Belts,68274670
+2018,SILVER,Accessories,Cufflinks,10411899
+2018,SILVER,Accessories,Eyewear,105052257
+2018,SILVER,Accessories,Gloves,2616665
+2018,SILVER,Accessories,Headwear,28307687
+2018,SILVER,Accessories,Jewellery,97222518
+2018,SILVER,Accessories,Mufflers,4028948
+2018,SILVER,Accessories,Perfumes,363519
+2018,SILVER,Accessories,Scarves,12845742
+2018,SILVER,Accessories,Shoe Accessories,2195348
+2018,SILVER,Accessories,Socks,64006458
+2018,SILVER,Accessories,Sports Accessories,600181
+2018,SILVER,Accessories,Stoles,6310911
+2018,SILVER,Accessories,Ties,19692562
+2018,SILVER,Accessories,Umbrellas,1081001
+2018,SILVER,Accessories,Wallets,81033462
+2018,SILVER,Accessories,Watches,231996583
+2018,SILVER,Accessories,Water Bottle,1218275
+2018,SILVER,Apparel,Apparel Set,7617626
+2018,SILVER,Apparel,Bottomwear,239513504
+2018,SILVER,Apparel,Dress,45937980
+2018,SILVER,Apparel,Innerwear,160945509
+2018,SILVER,Apparel,Loungewear and Nightwear,43009812
+2018,SILVER,Apparel,Saree,37760600
+2018,SILVER,Apparel,Socks,1338719
+2018,SILVER,Apparel,Topwear,1404829426
+2018,SILVER,Footwear,Flip Flops,78391028
+2018,SILVER,Footwear,Sandal,85393576
+2018,SILVER,Footwear,Shoes,663567453
+2018,SILVER,Free Items,Free Gifts,11137647
+2018,SILVER,Personal Care,Bath and Body,1128282
+2018,SILVER,Personal Care,Beauty Accessories,654249
+2018,SILVER,Personal Care,Eyes,5789498
+2018,SILVER,Personal Care,Fragrance,90360284
+2018,SILVER,Personal Care,Hair,698518
+2018,SILVER,Personal Care,Lips,48533524
+2018,SILVER,Personal Care,Makeup,32428991
+2018,SILVER,Personal Care,Nails,31177864
+2018,SILVER,Personal Care,Perfumes,497429
+2018,SILVER,Personal Care,Skin,6248056
+2018,SILVER,Personal Care,Skin Care,10098722
+2018,SILVER,Sporting Goods,Sports Equipment,1464881
+2018,SILVER,Sporting Goods,Wristbands,715423
+2018,VIP,Accessories,Accessories,31076991
+2018,VIP,Accessories,Bags,695922264
+2018,VIP,Accessories,Belts,190134976
+2018,VIP,Accessories,Cufflinks,26285605
+2018,VIP,Accessories,Eyewear,254536697
+2018,VIP,Accessories,Gloves,4782323
+2018,VIP,Accessories,Headwear,70513023
+2018,VIP,Accessories,Jewellery,263362283
+2018,VIP,Accessories,Mufflers,11715851
+2018,VIP,Accessories,Scarves,27127344
+2018,VIP,Accessories,Shoe Accessories,6353231
+2018,VIP,Accessories,Socks,156061086
+2018,VIP,Accessories,Stoles,19609246
+2018,VIP,Accessories,Ties,58580620
+2018,VIP,Accessories,Umbrellas,2701989
+2018,VIP,Accessories,Wallets,206176390
+2018,VIP,Accessories,Watches,613604540
+2018,VIP,Accessories,Water Bottle,483942
+2018,VIP,Apparel,Apparel Set,26063126
+2018,VIP,Apparel,Bottomwear,610139890
+2018,VIP,Apparel,Dress,104248034
+2018,VIP,Apparel,Innerwear,398673665
+2018,VIP,Apparel,Loungewear and Nightwear,104165918
+2018,VIP,Apparel,Saree,96286059
+2018,VIP,Apparel,Socks,2588702
+2018,VIP,Apparel,Topwear,3585762861
+2018,VIP,Footwear,Flip Flops,212914088
+2018,VIP,Footwear,Sandal,228127139
+2018,VIP,Footwear,Shoes,1711573795
+2018,VIP,Free Items,Free Gifts,24659937
+2018,VIP,Free Items,Vouchers,216038
+2018,VIP,Home,Home Furnishing,176605
+2018,VIP,Personal Care,Bath and Body,4208101
+2018,VIP,Personal Care,Beauty Accessories,1055662
+2018,VIP,Personal Care,Eyes,9154064
+2018,VIP,Personal Care,Fragrance,241498266
+2018,VIP,Personal Care,Hair,4757843
+2018,VIP,Personal Care,Lips,118958131
+2018,VIP,Personal Care,Makeup,72748121
+2018,VIP,Personal Care,Nails,88583982
+2018,VIP,Personal Care,Perfumes,971932
+2018,VIP,Personal Care,Skin,17955184
+2018,VIP,Personal Care,Skin Care,21851235
+2018,VIP,Sporting Goods,Sports Equipment,5920256
+2018,VIP,Sporting Goods,Wristbands,1541065
+2018,VVIP,Accessories,Accessories,10577088
+2018,VVIP,Accessories,Bags,203806971
+2018,VVIP,Accessories,Belts,48850107
+2018,VVIP,Accessories,Cufflinks,4977691
+2018,VVIP,Accessories,Eyewear,69740972
+2018,VVIP,Accessories,Gloves,917013
+2018,VVIP,Accessories,Headwear,16086764
+2018,VVIP,Accessories,Jewellery,71822629
+2018,VVIP,Accessories,Mufflers,2393962
+2018,VVIP,Accessories,Perfumes,132971
+2018,VVIP,Accessories,Scarves,7204423
+2018,VVIP,Accessories,Shoe Accessories,1270331
+2018,VVIP,Accessories,Socks,43432950
+2018,VVIP,Accessories,Sports Accessories,477053
+2018,VVIP,Accessories,Stoles,6302323
+2018,VVIP,Accessories,Ties,14561085
+2018,VVIP,Accessories,Umbrellas,301519
+2018,VVIP,Accessories,Wallets,61833804
+2018,VVIP,Accessories,Watches,151920674
+2018,VVIP,Accessories,Water Bottle,283354
+2018,VVIP,Apparel,Apparel Set,6002866
+2018,VVIP,Apparel,Bottomwear,168963395
+2018,VVIP,Apparel,Dress,29580844
+2018,VVIP,Apparel,Innerwear,115590104
+2018,VVIP,Apparel,Loungewear and Nightwear,33592465
+2018,VVIP,Apparel,Saree,30891943
+2018,VVIP,Apparel,Socks,461564
+2018,VVIP,Apparel,Topwear,1007026085
+2018,VVIP,Footwear,Flip Flops,58088352
+2018,VVIP,Footwear,Sandal,68047937
+2018,VVIP,Footwear,Shoes,474585461
+2018,VVIP,Free Items,Free Gifts,8184691
+2018,VVIP,Personal Care,Bath and Body,1971710
+2018,VVIP,Personal Care,Beauty Accessories,310764
+2018,VVIP,Personal Care,Eyes,2117886
+2018,VVIP,Personal Care,Fragrance,63075178
+2018,VVIP,Personal Care,Hair,1302320
+2018,VVIP,Personal Care,Lips,23863228
+2018,VVIP,Personal Care,Makeup,21225518
+2018,VVIP,Personal Care,Nails,21412896
+2018,VVIP,Personal Care,Perfumes,320047
+2018,VVIP,Personal Care,Skin,5705027
+2018,VVIP,Personal Care,Skin Care,5361028
+2018,VVIP,Sporting Goods,Sports Equipment,953554
+2018,VVIP,Sporting Goods,Wristbands,146853
+2019,BLONZE,Accessories,Accessories,10362180
+2019,BLONZE,Accessories,Bags,191611866
+2019,BLONZE,Accessories,Belts,52523027
+2019,BLONZE,Accessories,Cufflinks,3284668
+2019,BLONZE,Accessories,Eyewear,68145172
+2019,BLONZE,Accessories,Gloves,1112151
+2019,BLONZE,Accessories,Headwear,18811274
+2019,BLONZE,Accessories,Jewellery,67405075
+2019,BLONZE,Accessories,Mufflers,1453116
+2019,BLONZE,Accessories,Scarves,9681867
+2019,BLONZE,Accessories,Shoe Accessories,459028
+2019,BLONZE,Accessories,Socks,48703937
+2019,BLONZE,Accessories,Stoles,6058665
+2019,BLONZE,Accessories,Ties,12569968
+2019,BLONZE,Accessories,Umbrellas,48535
+2019,BLONZE,Accessories,Wallets,58084356
+2019,BLONZE,Accessories,Watches,158168832
+2019,BLONZE,Accessories,Water Bottle,504338
+2019,BLONZE,Apparel,Apparel Set,5792182
+2019,BLONZE,Apparel,Bottomwear,185637100
+2019,BLONZE,Apparel,Dress,29535820
+2019,BLONZE,Apparel,Innerwear,104914650
+2019,BLONZE,Apparel,Loungewear and Nightwear,28074102
+2019,BLONZE,Apparel,Saree,27231844
+2019,BLONZE,Apparel,Socks,194250
+2019,BLONZE,Apparel,Topwear,939946930
+2019,BLONZE,Footwear,Flip Flops,58999811
+2019,BLONZE,Footwear,Sandal,53493953
+2019,BLONZE,Footwear,Shoes,470337779
+2019,BLONZE,Free Items,Free Gifts,6776864
+2019,BLONZE,Personal Care,Bath and Body,769470
+2019,BLONZE,Personal Care,Beauty Accessories,1084908
+2019,BLONZE,Personal Care,Eyes,2392602
+2019,BLONZE,Personal Care,Fragrance,63020308
+2019,BLONZE,Personal Care,Hair,1634633
+2019,BLONZE,Personal Care,Lips,36823652
+2019,BLONZE,Personal Care,Makeup,17040179
+2019,BLONZE,Personal Care,Nails,20882981
+2019,BLONZE,Personal Care,Perfumes,151708
+2019,BLONZE,Personal Care,Skin,4371180
+2019,BLONZE,Personal Care,Skin Care,4275518
+2019,BLONZE,Sporting Goods,Sports Equipment,1520310
+2019,GOLD,Accessories,Accessories,45329348
+2019,GOLD,Accessories,Bags,841291955
+2019,GOLD,Accessories,Belts,229831606
+2019,GOLD,Accessories,Cufflinks,23281214
+2019,GOLD,Accessories,Eyewear,303462615
+2019,GOLD,Accessories,Gloves,4706143
+2019,GOLD,Accessories,Headwear,89571601
+2019,GOLD,Accessories,Jewellery,301905009
+2019,GOLD,Accessories,Mufflers,9600362
+2019,GOLD,Accessories,Scarves,34692804
+2019,GOLD,Accessories,Shoe Accessories,5966904
+2019,GOLD,Accessories,Socks,197524596
+2019,GOLD,Accessories,Sports Accessories,1523704
+2019,GOLD,Accessories,Stoles,25892233
+2019,GOLD,Accessories,Ties,70654932
+2019,GOLD,Accessories,Umbrellas,1390216
+2019,GOLD,Accessories,Wallets,250744376
+2019,GOLD,Accessories,Watches,724182247
+2019,GOLD,Accessories,Water Bottle,1786013
+2019,GOLD,Apparel,Apparel Set,29050916
+2019,GOLD,Apparel,Bottomwear,751504575
+2019,GOLD,Apparel,Dress,127305289
+2019,GOLD,Apparel,Innerwear,519780843
+2019,GOLD,Apparel,Loungewear and Nightwear,148852800
+2019,GOLD,Apparel,Saree,126602505
+2019,GOLD,Apparel,Socks,2736410
+2019,GOLD,Apparel,Topwear,4355191323
+2019,GOLD,Footwear,Flip Flops,253990028
+2019,GOLD,Footwear,Sandal,265291714
+2019,GOLD,Footwear,Shoes,2083336769
+2019,GOLD,Free Items,Free Gifts,28858118
+2019,GOLD,Free Items,Vouchers,367714
+2019,GOLD,Home,Home Furnishing,116564
+2019,GOLD,Personal Care,Bath and Body,1904321
+2019,GOLD,Personal Care,Beauty Accessories,1122021
+2019,GOLD,Personal Care,Eyes,14591427
+2019,GOLD,Personal Care,Fragrance,281131037
+2019,GOLD,Personal Care,Hair,5246059
+2019,GOLD,Personal Care,Lips,151105339
+2019,GOLD,Personal Care,Makeup,90282144
+2019,GOLD,Personal Care,Nails,85418448
+2019,GOLD,Personal Care,Perfumes,3173470
+2019,GOLD,Personal Care,Skin,19443550
+2019,GOLD,Personal Care,Skin Care,21285677
+2019,GOLD,Sporting Goods,Sports Equipment,3287465
+2019,GOLD,Sporting Goods,Wristbands,1381756
+2019,SILVER,Accessories,Accessories,18411979
+2019,SILVER,Accessories,Bags,463463044
+2019,SILVER,Accessories,Belts,123024527
+2019,SILVER,Accessories,Cufflinks,18031192
+2019,SILVER,Accessories,Eyewear,154895674
+2019,SILVER,Accessories,Gloves,2572009
+2019,SILVER,Accessories,Headwear,42048356
+2019,SILVER,Accessories,Jewellery,158150915
+2019,SILVER,Accessories,Mufflers,4291662
+2019,SILVER,Accessories,Perfumes,35464
+2019,SILVER,Accessories,Scarves,15974296
+2019,SILVER,Accessories,Shoe Accessories,4358926
+2019,SILVER,Accessories,Socks,110864786
+2019,SILVER,Accessories,Sports Accessories,206094
+2019,SILVER,Accessories,Stoles,14197041
+2019,SILVER,Accessories,Ties,38941327
+2019,SILVER,Accessories,Umbrellas,457566
+2019,SILVER,Accessories,Wallets,142398503
+2019,SILVER,Accessories,Watches,379752024
+2019,SILVER,Accessories,Water Bottle,597635
+2019,SILVER,Apparel,Apparel Set,17525341
+2019,SILVER,Apparel,Bottomwear,409696323
+2019,SILVER,Apparel,Dress,68916485
+2019,SILVER,Apparel,Innerwear,277748237
+2019,SILVER,Apparel,Loungewear and Nightwear,70555294
+2019,SILVER,Apparel,Saree,69624449
+2019,SILVER,Apparel,Socks,1729749
+2019,SILVER,Apparel,Topwear,2332728750
+2019,SILVER,Footwear,Flip Flops,144900479
+2019,SILVER,Footwear,Sandal,156757224
+2019,SILVER,Footwear,Shoes,1131256350
+2019,SILVER,Free Items,Free Gifts,15364958
+2019,SILVER,Free Items,Vouchers,243091
+2019,SILVER,Personal Care,Bath and Body,1337506
+2019,SILVER,Personal Care,Beauty Accessories,1181777
+2019,SILVER,Personal Care,Eyes,4664405
+2019,SILVER,Personal Care,Fragrance,155728841
+2019,SILVER,Personal Care,Hair,3856177
+2019,SILVER,Personal Care,Lips,83428679
+2019,SILVER,Personal Care,Makeup,41357862
+2019,SILVER,Personal Care,Nails,50191773
+2019,SILVER,Personal Care,Perfumes,708041
+2019,SILVER,Personal Care,Skin,10765746
+2019,SILVER,Personal Care,Skin Care,10262952
+2019,SILVER,Sporting Goods,Sports Equipment,3525535
+2019,SILVER,Sporting Goods,Wristbands,152475
+2019,VIP,Accessories,Accessories,53282774
+2019,VIP,Accessories,Bags,1090988269
+2019,VIP,Accessories,Belts,298796190
+2019,VIP,Accessories,Cufflinks,41172896
+2019,VIP,Accessories,Eyewear,385543086
+2019,VIP,Accessories,Gloves,9246071
+2019,VIP,Accessories,Headwear,116491493
+2019,VIP,Accessories,Jewellery,401368846
+2019,VIP,Accessories,Mufflers,13014230
+2019,VIP,Accessories,Scarves,44288554
+2019,VIP,Accessories,Shoe Accessories,8046646
+2019,VIP,Accessories,Socks,230553930
+2019,VIP,Accessories,Sports Accessories,835624
+2019,VIP,Accessories,Stoles,32869521
+2019,VIP,Accessories,Ties,94355414
+2019,VIP,Accessories,Umbrellas,2860013
+2019,VIP,Accessories,Wallets,344813204
+2019,VIP,Accessories,Watches,918579426
+2019,VIP,Accessories,Water Bottle,4298936
+2019,VIP,Apparel,Apparel Set,37183432
+2019,VIP,Apparel,Bottomwear,984663945
+2019,VIP,Apparel,Dress,169498098
+2019,VIP,Apparel,Innerwear,652635786
+2019,VIP,Apparel,Loungewear and Nightwear,160909899
+2019,VIP,Apparel,Saree,145609394
+2019,VIP,Apparel,Socks,4154681
+2019,VIP,Apparel,Topwear,5459601104
+2019,VIP,Footwear,Flip Flops,327183857
+2019,VIP,Footwear,Sandal,340492880
+2019,VIP,Footwear,Shoes,2632320805
+2019,VIP,Free Items,Free Gifts,36882310
+2019,VIP,Free Items,Vouchers,662382
+2019,VIP,Personal Care,Bath and Body,5544607
+2019,VIP,Personal Care,Beauty Accessories,625500
+2019,VIP,Personal Care,Eyes,17357224
+2019,VIP,Personal Care,Fragrance,365177759
+2019,VIP,Personal Care,Hair,5947663
+2019,VIP,Personal Care,Lips,182714205
+2019,VIP,Personal Care,Makeup,111824358
+2019,VIP,Personal Care,Nails,118151881
+2019,VIP,Personal Care,Perfumes,1241791
+2019,VIP,Personal Care,Skin,23166645
+2019,VIP,Personal Care,Skin Care,29769085
+2019,VIP,Sporting Goods,Sports Equipment,7086650
+2019,VIP,Sporting Goods,Wristbands,1879076
+2019,VVIP,Accessories,Accessories,14050117
+2019,VVIP,Accessories,Bags,337265908
+2019,VVIP,Accessories,Belts,81719058
+2019,VVIP,Accessories,Cufflinks,13951463
+2019,VVIP,Accessories,Eyewear,121338199
+2019,VVIP,Accessories,Gloves,2198275
+2019,VVIP,Accessories,Headwear,28772204
+2019,VVIP,Accessories,Jewellery,111045347
+2019,VVIP,Accessories,Mufflers,4878855
+2019,VVIP,Accessories,Perfumes,274865
+2019,VVIP,Accessories,Scarves,13628661
+2019,VVIP,Accessories,Shoe Accessories,1886469
+2019,VVIP,Accessories,Socks,70257326
+2019,VVIP,Accessories,Sports Accessories,131614
+2019,VVIP,Accessories,Stoles,7227635
+2019,VVIP,Accessories,Ties,23416136
+2019,VVIP,Accessories,Umbrellas,82346
+2019,VVIP,Accessories,Wallets,94777756
+2019,VVIP,Accessories,Watches,270849204
+2019,VVIP,Accessories,Water Bottle,1117222
+2019,VVIP,Apparel,Apparel Set,14125622
+2019,VVIP,Apparel,Bottomwear,276047360
+2019,VVIP,Apparel,Dress,44448238
+2019,VVIP,Apparel,Innerwear,196519814
+2019,VVIP,Apparel,Loungewear and Nightwear,48146899
+2019,VVIP,Apparel,Saree,43580190
+2019,VVIP,Apparel,Socks,238569
+2019,VVIP,Apparel,Topwear,1600684886
+2019,VVIP,Footwear,Flip Flops,107278136
+2019,VVIP,Footwear,Sandal,101746962
+2019,VVIP,Footwear,Shoes,750545510
+2019,VVIP,Free Items,Free Gifts,9652313
+2019,VVIP,Personal Care,Bath and Body,1114375
+2019,VVIP,Personal Care,Beauty Accessories,608704
+2019,VVIP,Personal Care,Eyes,6176751
+2019,VVIP,Personal Care,Fragrance,105192213
+2019,VVIP,Personal Care,Hair,2571787
+2019,VVIP,Personal Care,Lips,55899628
+2019,VVIP,Personal Care,Makeup,29422323
+2019,VVIP,Personal Care,Nails,35738120
+2019,VVIP,Personal Care,Perfumes,1768787
+2019,VVIP,Personal Care,Skin,6823777
+2019,VVIP,Personal Care,Skin Care,8862327
+2019,VVIP,Sporting Goods,Sports Equipment,2861335
+2019,VVIP,Sporting Goods,Wristbands,173362
+2020,BLONZE,Accessories,Accessories,11945288
+2020,BLONZE,Accessories,Bags,292896623
+2020,BLONZE,Accessories,Belts,74096078
+2020,BLONZE,Accessories,Cufflinks,8281143
+2020,BLONZE,Accessories,Eyewear,100517505
+2020,BLONZE,Accessories,Gloves,1771394
+2020,BLONZE,Accessories,Headwear,25732366
+2020,BLONZE,Accessories,Jewellery,92484747
+2020,BLONZE,Accessories,Mufflers,3121039
+2020,BLONZE,Accessories,Scarves,12417216
+2020,BLONZE,Accessories,Shoe Accessories,1896196
+2020,BLONZE,Accessories,Socks,64290639
+2020,BLONZE,Accessories,Sports Accessories,220455
+2020,BLONZE,Accessories,Stoles,7168559
+2020,BLONZE,Accessories,Ties,23136410
+2020,BLONZE,Accessories,Umbrellas,227018
+2020,BLONZE,Accessories,Wallets,91867229
+2020,BLONZE,Accessories,Watches,253262883
+2020,BLONZE,Accessories,Water Bottle,151182
+2020,BLONZE,Apparel,Apparel Set,8499743
+2020,BLONZE,Apparel,Bottomwear,242793274
+2020,BLONZE,Apparel,Dress,53106873
+2020,BLONZE,Apparel,Innerwear,172631443
+2020,BLONZE,Apparel,Loungewear and Nightwear,38207242
+2020,BLONZE,Apparel,Saree,41303112
+2020,BLONZE,Apparel,Socks,2671242
+2020,BLONZE,Apparel,Topwear,1457736919
+2020,BLONZE,Footwear,Flip Flops,89542443
+2020,BLONZE,Footwear,Sandal,92035937
+2020,BLONZE,Footwear,Shoes,678888798
+2020,BLONZE,Free Items,Free Gifts,11672324
+2020,BLONZE,Home,Home Furnishing,266501
+2020,BLONZE,Personal Care,Bath and Body,357762
+2020,BLONZE,Personal Care,Beauty Accessories,294784
+2020,BLONZE,Personal Care,Eyes,5772448
+2020,BLONZE,Personal Care,Fragrance,93469354
+2020,BLONZE,Personal Care,Hair,2486740
+2020,BLONZE,Personal Care,Lips,52301095
+2020,BLONZE,Personal Care,Makeup,31593450
+2020,BLONZE,Personal Care,Nails,27018396
+2020,BLONZE,Personal Care,Perfumes,825204
+2020,BLONZE,Personal Care,Skin,7182383
+2020,BLONZE,Personal Care,Skin Care,4677883
+2020,BLONZE,Sporting Goods,Sports Equipment,1600082
+2020,BLONZE,Sporting Goods,Wristbands,172203
+2020,GOLD,Accessories,Accessories,61621045
+2020,GOLD,Accessories,Bags,1284388794
+2020,GOLD,Accessories,Belts,345249366
+2020,GOLD,Accessories,Cufflinks,45819112
+2020,GOLD,Accessories,Eyewear,481382687
+2020,GOLD,Accessories,Gloves,7814372
+2020,GOLD,Accessories,Headwear,123990130
+2020,GOLD,Accessories,Jewellery,482741030
+2020,GOLD,Accessories,Mufflers,22500035
+2020,GOLD,Accessories,Perfumes,425677
+2020,GOLD,Accessories,Scarves,52860329
+2020,GOLD,Accessories,Shoe Accessories,8757217
+2020,GOLD,Accessories,Socks,286707173
+2020,GOLD,Accessories,Sports Accessories,968598
+2020,GOLD,Accessories,Stoles,38086482
+2020,GOLD,Accessories,Ties,105476206
+2020,GOLD,Accessories,Umbrellas,2420328
+2020,GOLD,Accessories,Wallets,394730491
+2020,GOLD,Accessories,Watches,1080949092
+2020,GOLD,Accessories,Water Bottle,4685934
+2020,GOLD,Apparel,Apparel Set,46756826
+2020,GOLD,Apparel,Bottomwear,1161023071
+2020,GOLD,Apparel,Dress,216325870
+2020,GOLD,Apparel,Innerwear,783442679
+2020,GOLD,Apparel,Loungewear and Nightwear,211493103
+2020,GOLD,Apparel,Saree,189079692
+2020,GOLD,Apparel,Socks,6828963
+2020,GOLD,Apparel,Topwear,6573753882
+2020,GOLD,Footwear,Flip Flops,408817763
+2020,GOLD,Footwear,Sandal,406264025
+2020,GOLD,Footwear,Shoes,3169820773
+2020,GOLD,Free Items,Free Gifts,36277685
+2020,GOLD,Free Items,Vouchers,463427
+2020,GOLD,Home,Home Furnishing,150728
+2020,GOLD,Personal Care,Bath and Body,5274231
+2020,GOLD,Personal Care,Beauty Accessories,1523678
+2020,GOLD,Personal Care,Eyes,16399322
+2020,GOLD,Personal Care,Fragrance,433397532
+2020,GOLD,Personal Care,Hair,8533022
+2020,GOLD,Personal Care,Lips,233579421
+2020,GOLD,Personal Care,Makeup,124492171
+2020,GOLD,Personal Care,Nails,153628892
+2020,GOLD,Personal Care,Perfumes,1040075
+2020,GOLD,Personal Care,Skin,28926949
+2020,GOLD,Personal Care,Skin Care,26402734
+2020,GOLD,Sporting Goods,Sports Equipment,8899779
+2020,GOLD,Sporting Goods,Wristbands,2171445
+2020,SILVER,Accessories,Accessories,36054085
+2020,SILVER,Accessories,Bags,665481724
+2020,SILVER,Accessories,Belts,189244893
+2020,SILVER,Accessories,Cufflinks,24139476
+2020,SILVER,Accessories,Eyewear,239516374
+2020,SILVER,Accessories,Gloves,2518586
+2020,SILVER,Accessories,Headwear,69682583
+2020,SILVER,Accessories,Jewellery,249813236
+2020,SILVER,Accessories,Mufflers,8019856
+2020,SILVER,Accessories,Perfumes,131609
+2020,SILVER,Accessories,Scarves,26267877
+2020,SILVER,Accessories,Shoe Accessories,5833365
+2020,SILVER,Accessories,Socks,143904360
+2020,SILVER,Accessories,Sports Accessories,1262209
+2020,SILVER,Accessories,Stoles,20292173
+2020,SILVER,Accessories,Ties,59284669
+2020,SILVER,Accessories,Umbrellas,828939
+2020,SILVER,Accessories,Wallets,220603844
+2020,SILVER,Accessories,Watches,587108833
+2020,SILVER,Apparel,Apparel Set,21066196
+2020,SILVER,Apparel,Bottomwear,621307208
+2020,SILVER,Apparel,Dress,106871571
+2020,SILVER,Apparel,Innerwear,400794627
+2020,SILVER,Apparel,Loungewear and Nightwear,108171341
+2020,SILVER,Apparel,Saree,93095016
+2020,SILVER,Apparel,Socks,5026794
+2020,SILVER,Apparel,Topwear,3517787494
+2020,SILVER,Footwear,Flip Flops,215033369
+2020,SILVER,Footwear,Sandal,216236601
+2020,SILVER,Footwear,Shoes,1655839376
+2020,SILVER,Free Items,Free Gifts,25309864
+2020,SILVER,Free Items,Vouchers,484743
+2020,SILVER,Personal Care,Bath and Body,3135634
+2020,SILVER,Personal Care,Beauty Accessories,592870
+2020,SILVER,Personal Care,Eyes,8524548
+2020,SILVER,Personal Care,Fragrance,222551737
+2020,SILVER,Personal Care,Hair,5413391
+2020,SILVER,Personal Care,Lips,122348901
+2020,SILVER,Personal Care,Makeup,59846177
+2020,SILVER,Personal Care,Nails,68705777
+2020,SILVER,Personal Care,Perfumes,586705
+2020,SILVER,Personal Care,Skin,15068352
+2020,SILVER,Personal Care,Skin Care,17237116
+2020,SILVER,Sporting Goods,Sports Equipment,5064113
+2020,SILVER,Sporting Goods,Wristbands,1175930
+2020,VIP,Accessories,Accessories,72331716
+2020,VIP,Accessories,Bags,1640225646
+2020,VIP,Accessories,Belts,419614923
+2020,VIP,Accessories,Cufflinks,51988766
+2020,VIP,Accessories,Eyewear,567660904
+2020,VIP,Accessories,Gloves,9046729
+2020,VIP,Accessories,Headwear,145195909
+2020,VIP,Accessories,Jewellery,580098539
+2020,VIP,Accessories,Mufflers,18952289
+2020,VIP,Accessories,Perfumes,496604
+2020,VIP,Accessories,Scarves,62580495
+2020,VIP,Accessories,Shoe Accessories,9468239
+2020,VIP,Accessories,Socks,351761112
+2020,VIP,Accessories,Sports Accessories,1411182
+2020,VIP,Accessories,Stoles,45960217
+2020,VIP,Accessories,Ties,133756898
+2020,VIP,Accessories,Umbrellas,3443001
+2020,VIP,Accessories,Wallets,486798282
+2020,VIP,Accessories,Watches,1320772874
+2020,VIP,Accessories,Water Bottle,3140082
+2020,VIP,Apparel,Apparel Set,60774784
+2020,VIP,Apparel,Bottomwear,1447190756
+2020,VIP,Apparel,Dress,254841142
+2020,VIP,Apparel,Innerwear,933767123
+2020,VIP,Apparel,Loungewear and Nightwear,256627901
+2020,VIP,Apparel,Saree,236234252
+2020,VIP,Apparel,Socks,8132205
+2020,VIP,Apparel,Topwear,8047759578
+2020,VIP,Footwear,Flip Flops,485439893
+2020,VIP,Footwear,Sandal,491773398
+2020,VIP,Footwear,Shoes,3891342545
+2020,VIP,Free Items,Free Gifts,53071467
+2020,VIP,Free Items,Vouchers,998797
+2020,VIP,Home,Home Furnishing,189223
+2020,VIP,Personal Care,Bath and Body,6971086
+2020,VIP,Personal Care,Beauty Accessories,661085
+2020,VIP,Personal Care,Eyes,23723007
+2020,VIP,Personal Care,Fragrance,512270530
+2020,VIP,Personal Care,Hair,8327663
+2020,VIP,Personal Care,Lips,270519981
+2020,VIP,Personal Care,Makeup,158017800
+2020,VIP,Personal Care,Nails,167618862
+2020,VIP,Personal Care,Perfumes,3528396
+2020,VIP,Personal Care,Skin,29486215
+2020,VIP,Personal Care,Skin Care,39544727
+2020,VIP,Sporting Goods,Sports Equipment,9931990
+2020,VIP,Sporting Goods,Wristbands,2300704
+2020,VVIP,Accessories,Accessories,19927143
+2020,VVIP,Accessories,Bags,464223566
+2020,VVIP,Accessories,Belts,138021677
+2020,VVIP,Accessories,Cufflinks,17762739
+2020,VVIP,Accessories,Eyewear,160836668
+2020,VVIP,Accessories,Gloves,2439165
+2020,VVIP,Accessories,Headwear,46951283
+2020,VVIP,Accessories,Jewellery,165685375
+2020,VVIP,Accessories,Mufflers,3972946
+2020,VVIP,Accessories,Perfumes,231237
+2020,VVIP,Accessories,Scarves,17703678
+2020,VVIP,Accessories,Shoe Accessories,4884605
+2020,VVIP,Accessories,Socks,103809436
+2020,VVIP,Accessories,Stoles,13711218
+2020,VVIP,Accessories,Ties,38087102
+2020,VVIP,Accessories,Umbrellas,1743689
+2020,VVIP,Accessories,Wallets,140802335
+2020,VVIP,Accessories,Watches,391879874
+2020,VVIP,Accessories,Water Bottle,907618
+2020,VVIP,Apparel,Apparel Set,16982580
+2020,VVIP,Apparel,Bottomwear,414686506
+2020,VVIP,Apparel,Dress,79925235
+2020,VVIP,Apparel,Innerwear,293608695
+2020,VVIP,Apparel,Loungewear and Nightwear,65350662
+2020,VVIP,Apparel,Saree,65544051
+2020,VVIP,Apparel,Socks,1243468
+2020,VVIP,Apparel,Topwear,2452414007
+2020,VVIP,Footwear,Flip Flops,135432146
+2020,VVIP,Footwear,Sandal,162604772
+2020,VVIP,Footwear,Shoes,1116066396
+2020,VVIP,Free Items,Free Gifts,12971586
+2020,VVIP,Home,Home Furnishing,368353
+2020,VVIP,Personal Care,Bath and Body,914744
+2020,VVIP,Personal Care,Eyes,6328176
+2020,VVIP,Personal Care,Fragrance,151096844
+2020,VVIP,Personal Care,Hair,4411093
+2020,VVIP,Personal Care,Lips,73315001
+2020,VVIP,Personal Care,Makeup,51031097
+2020,VVIP,Personal Care,Nails,47541715
+2020,VVIP,Personal Care,Perfumes,494931
+2020,VVIP,Personal Care,Skin,11765960
+2020,VVIP,Personal Care,Skin Care,12250157
+2020,VVIP,Sporting Goods,Sports Equipment,2845979
+2020,VVIP,Sporting Goods,Wristbands,837649
+2021,BLONZE,Accessories,Accessories,16591478
+2021,BLONZE,Accessories,Bags,413701933
+2021,BLONZE,Accessories,Belts,114457785
+2021,BLONZE,Accessories,Cufflinks,14118859
+2021,BLONZE,Accessories,Eyewear,141897723
+2021,BLONZE,Accessories,Gloves,3155635
+2021,BLONZE,Accessories,Headwear,42096696
+2021,BLONZE,Accessories,Jewellery,143528327
+2021,BLONZE,Accessories,Mufflers,5990074
+2021,BLONZE,Accessories,Perfumes,574656
+2021,BLONZE,Accessories,Scarves,22095505
+2021,BLONZE,Accessories,Shoe Accessories,3221835
+2021,BLONZE,Accessories,Socks,96728692
+2021,BLONZE,Accessories,Sports Accessories,2281040
+2021,BLONZE,Accessories,Stoles,13423279
+2021,BLONZE,Accessories,Ties,40191246
+2021,BLONZE,Accessories,Umbrellas,470337
+2021,BLONZE,Accessories,Wallets,130206227
+2021,BLONZE,Accessories,Watches,374367735
+2021,BLONZE,Accessories,Water Bottle,849201
+2021,BLONZE,Apparel,Apparel Set,9993980
+2021,BLONZE,Apparel,Bottomwear,380636499
+2021,BLONZE,Apparel,Dress,62125480
+2021,BLONZE,Apparel,Innerwear,264454850
+2021,BLONZE,Apparel,Loungewear and Nightwear,62640229
+2021,BLONZE,Apparel,Saree,61684979
+2021,BLONZE,Apparel,Socks,1217607
+2021,BLONZE,Apparel,Topwear,2089235940
+2021,BLONZE,Footwear,Flip Flops,132300969
+2021,BLONZE,Footwear,Sandal,139140056
+2021,BLONZE,Footwear,Shoes,1046194820
+2021,BLONZE,Free Items,Free Gifts,14598339
+2021,BLONZE,Personal Care,Bath and Body,1991830
+2021,BLONZE,Personal Care,Eyes,8358628
+2021,BLONZE,Personal Care,Fragrance,128037824
+2021,BLONZE,Personal Care,Hair,3109532
+2021,BLONZE,Personal Care,Lips,78238283
+2021,BLONZE,Personal Care,Makeup,49861478
+2021,BLONZE,Personal Care,Nails,43166663
+2021,BLONZE,Personal Care,Perfumes,139739
+2021,BLONZE,Personal Care,Skin,9810117
+2021,BLONZE,Personal Care,Skin Care,9145565
+2021,BLONZE,Sporting Goods,Sports Equipment,3266128
+2021,BLONZE,Sporting Goods,Wristbands,1077759
+2021,GOLD,Accessories,Accessories,96538625
+2021,GOLD,Accessories,Bags,1988817492
+2021,GOLD,Accessories,Belts,529634867
+2021,GOLD,Accessories,Cufflinks,69198859
+2021,GOLD,Accessories,Eyewear,716731313
+2021,GOLD,Accessories,Gloves,15729306
+2021,GOLD,Accessories,Headwear,195610493
+2021,GOLD,Accessories,Jewellery,698540488
+2021,GOLD,Accessories,Mufflers,24215496
+2021,GOLD,Accessories,Perfumes,480713
+2021,GOLD,Accessories,Scarves,71801564
+2021,GOLD,Accessories,Shoe Accessories,18463467
+2021,GOLD,Accessories,Socks,443381042
+2021,GOLD,Accessories,Sports Accessories,1163797
+2021,GOLD,Accessories,Stoles,58920540
+2021,GOLD,Accessories,Ties,158350677
+2021,GOLD,Accessories,Umbrellas,4649520
+2021,GOLD,Accessories,Wallets,602021654
+2021,GOLD,Accessories,Watches,1641558352
+2021,GOLD,Accessories,Water Bottle,5082524
+2021,GOLD,Apparel,Apparel Set,68754184
+2021,GOLD,Apparel,Bottomwear,1716402239
+2021,GOLD,Apparel,Dress,300966298
+2021,GOLD,Apparel,Innerwear,1181670091
+2021,GOLD,Apparel,Loungewear and Nightwear,316956837
+2021,GOLD,Apparel,Saree,274090497
+2021,GOLD,Apparel,Socks,9150086
+2021,GOLD,Apparel,Topwear,9970758496
+2021,GOLD,Footwear,Flip Flops,603915739
+2021,GOLD,Footwear,Sandal,619413918
+2021,GOLD,Footwear,Shoes,4852502906
+2021,GOLD,Free Items,Free Gifts,73370205
+2021,GOLD,Home,Home Furnishing,904124
+2021,GOLD,Personal Care,Bath and Body,8431296
+2021,GOLD,Personal Care,Beauty Accessories,3548578
+2021,GOLD,Personal Care,Eyes,32985014
+2021,GOLD,Personal Care,Fragrance,649253957
+2021,GOLD,Personal Care,Hair,8860955
+2021,GOLD,Personal Care,Lips,347424317
+2021,GOLD,Personal Care,Makeup,209172859
+2021,GOLD,Personal Care,Nails,215975365
+2021,GOLD,Personal Care,Perfumes,2708989
+2021,GOLD,Personal Care,Skin,40344212
+2021,GOLD,Personal Care,Skin Care,50733605
+2021,GOLD,Sporting Goods,Sports Equipment,13214739
+2021,GOLD,Sporting Goods,Wristbands,3525734
+2021,SILVER,Accessories,Accessories,53270241
+2021,SILVER,Accessories,Bags,1108040548
+2021,SILVER,Accessories,Belts,281792307
+2021,SILVER,Accessories,Cufflinks,33272871
+2021,SILVER,Accessories,Eyewear,411283229
+2021,SILVER,Accessories,Gloves,8019145
+2021,SILVER,Accessories,Headwear,103933886
+2021,SILVER,Accessories,Jewellery,372346864
+2021,SILVER,Accessories,Mufflers,11346032
+2021,SILVER,Accessories,Scarves,43691517
+2021,SILVER,Accessories,Shoe Accessories,6823975
+2021,SILVER,Accessories,Socks,242007142
+2021,SILVER,Accessories,Sports Accessories,850730
+2021,SILVER,Accessories,Stoles,33693467
+2021,SILVER,Accessories,Ties,98489786
+2021,SILVER,Accessories,Umbrellas,2213630
+2021,SILVER,Accessories,Wallets,339415454
+2021,SILVER,Accessories,Watches,926186911
+2021,SILVER,Accessories,Water Bottle,872469
+2021,SILVER,Apparel,Apparel Set,41004554
+2021,SILVER,Apparel,Bottomwear,953033156
+2021,SILVER,Apparel,Dress,164440078
+2021,SILVER,Apparel,Innerwear,629641152
+2021,SILVER,Apparel,Loungewear and Nightwear,166102836
+2021,SILVER,Apparel,Saree,166787999
+2021,SILVER,Apparel,Socks,5730588
+2021,SILVER,Apparel,Topwear,5565049288
+2021,SILVER,Footwear,Flip Flops,314390336
+2021,SILVER,Footwear,Sandal,345160688
+2021,SILVER,Footwear,Shoes,2645798028
+2021,SILVER,Free Items,Free Gifts,39320277
+2021,SILVER,Home,Home Furnishing,375939
+2021,SILVER,Personal Care,Bath and Body,5003447
+2021,SILVER,Personal Care,Beauty Accessories,908749
+2021,SILVER,Personal Care,Eyes,13465468
+2021,SILVER,Personal Care,Fragrance,351520776
+2021,SILVER,Personal Care,Hair,5774489
+2021,SILVER,Personal Care,Lips,201152861
+2021,SILVER,Personal Care,Makeup,127915788
+2021,SILVER,Personal Care,Nails,104921901
+2021,SILVER,Personal Care,Perfumes,709490
+2021,SILVER,Personal Care,Skin,25249394
+2021,SILVER,Personal Care,Skin Care,26251395
+2021,SILVER,Sporting Goods,Sports Equipment,7250990
+2021,SILVER,Sporting Goods,Wristbands,696552
+2021,VIP,Accessories,Accessories,115252072
+2021,VIP,Accessories,Bags,2262686513
+2021,VIP,Accessories,Belts,613941744
+2021,VIP,Accessories,Cufflinks,77016693
+2021,VIP,Accessories,Eyewear,789952082
+2021,VIP,Accessories,Gloves,13781960
+2021,VIP,Accessories,Headwear,215671901
+2021,VIP,Accessories,Jewellery,787443718
+2021,VIP,Accessories,Mufflers,31076381
+2021,VIP,Accessories,Perfumes,718540
+2021,VIP,Accessories,Scarves,90309373
+2021,VIP,Accessories,Shoe Accessories,14518414
+2021,VIP,Accessories,Socks,526343639
+2021,VIP,Accessories,Sports Accessories,1941892
+2021,VIP,Accessories,Stoles,69407252
+2021,VIP,Accessories,Ties,182384384
+2021,VIP,Accessories,Umbrellas,5472436
+2021,VIP,Accessories,Wallets,709693534
+2021,VIP,Accessories,Watches,1883118040
+2021,VIP,Accessories,Water Bottle,5857795
+2021,VIP,Apparel,Apparel Set,78576745
+2021,VIP,Apparel,Bottomwear,2024027556
+2021,VIP,Apparel,Dress,371902740
+2021,VIP,Apparel,Innerwear,1379600582
+2021,VIP,Apparel,Loungewear and Nightwear,356263317
+2021,VIP,Apparel,Saree,327936765
+2021,VIP,Apparel,Socks,9456316
+2021,VIP,Apparel,Topwear,11591677267
+2021,VIP,Footwear,Flip Flops,701273190
+2021,VIP,Footwear,Sandal,689946150
+2021,VIP,Footwear,Shoes,5566800167
+2021,VIP,Free Items,Free Gifts,86388417
+2021,VIP,Free Items,Vouchers,1348089
+2021,VIP,Home,Home Furnishing,614758
+2021,VIP,Personal Care,Bath and Body,8860293
+2021,VIP,Personal Care,Beauty Accessories,3269889
+2021,VIP,Personal Care,Eyes,34261656
+2021,VIP,Personal Care,Fragrance,746922447
+2021,VIP,Personal Care,Hair,9767918
+2021,VIP,Personal Care,Lips,397202282
+2021,VIP,Personal Care,Makeup,236009347
+2021,VIP,Personal Care,Nails,240793454
+2021,VIP,Personal Care,Perfumes,2915742
+2021,VIP,Personal Care,Skin,51130129
+2021,VIP,Personal Care,Skin Care,57662123
+2021,VIP,Sporting Goods,Sports Equipment,18158682
+2021,VIP,Sporting Goods,Wristbands,1209863
+2021,VVIP,Accessories,Accessories,32038493
+2021,VVIP,Accessories,Bags,663991678
+2021,VVIP,Accessories,Belts,191690042
+2021,VVIP,Accessories,Cufflinks,21615175
+2021,VVIP,Accessories,Eyewear,230015148
+2021,VVIP,Accessories,Gloves,3078342
+2021,VVIP,Accessories,Headwear,60602915
+2021,VVIP,Accessories,Jewellery,232825815
+2021,VVIP,Accessories,Mufflers,7372794
+2021,VVIP,Accessories,Perfumes,697489
+2021,VVIP,Accessories,Scarves,25384382
+2021,VVIP,Accessories,Shoe Accessories,4815230
+2021,VVIP,Accessories,Socks,166155778
+2021,VVIP,Accessories,Sports Accessories,1657705
+2021,VVIP,Accessories,Stoles,17722993
+2021,VVIP,Accessories,Ties,59083133
+2021,VVIP,Accessories,Umbrellas,1729311
+2021,VVIP,Accessories,Wallets,204050807
+2021,VVIP,Accessories,Watches,557495540
+2021,VVIP,Accessories,Water Bottle,801231
+2021,VVIP,Apparel,Apparel Set,26379931
+2021,VVIP,Apparel,Bottomwear,620266612
+2021,VVIP,Apparel,Dress,101506365
+2021,VVIP,Apparel,Innerwear,403978659
+2021,VVIP,Apparel,Loungewear and Nightwear,103359917
+2021,VVIP,Apparel,Saree,94590824
+2021,VVIP,Apparel,Socks,2632781
+2021,VVIP,Apparel,Topwear,3366900398
+2021,VVIP,Footwear,Flip Flops,196462684
+2021,VVIP,Footwear,Sandal,212523280
+2021,VVIP,Footwear,Shoes,1572780366
+2021,VVIP,Free Items,Free Gifts,23214018
+2021,VVIP,Free Items,Vouchers,821699
+2021,VVIP,Personal Care,Bath and Body,4360583
+2021,VVIP,Personal Care,Beauty Accessories,1364905
+2021,VVIP,Personal Care,Eyes,6461315
+2021,VVIP,Personal Care,Fragrance,228153645
+2021,VVIP,Personal Care,Hair,4345006
+2021,VVIP,Personal Care,Lips,125479238
+2021,VVIP,Personal Care,Makeup,65446159
+2021,VVIP,Personal Care,Nails,77162855
+2021,VVIP,Personal Care,Perfumes,1398681
+2021,VVIP,Personal Care,Skin,18873524
+2021,VVIP,Personal Care,Skin Care,17377586
+2021,VVIP,Sporting Goods,Sports Equipment,5752049
+2021,VVIP,Sporting Goods,Wristbands,1124726
+2022,BLONZE,Accessories,Accessories,17006813
+2022,BLONZE,Accessories,Bags,351439200
+2022,BLONZE,Accessories,Belts,92887437
+2022,BLONZE,Accessories,Cufflinks,14987386
+2022,BLONZE,Accessories,Eyewear,119431927
+2022,BLONZE,Accessories,Gloves,1713337
+2022,BLONZE,Accessories,Headwear,29164333
+2022,BLONZE,Accessories,Jewellery,126031522
+2022,BLONZE,Accessories,Mufflers,3513969
+2022,BLONZE,Accessories,Scarves,12390415
+2022,BLONZE,Accessories,Shoe Accessories,2731234
+2022,BLONZE,Accessories,Socks,78806573
+2022,BLONZE,Accessories,Sports Accessories,396491
+2022,BLONZE,Accessories,Stoles,11258308
+2022,BLONZE,Accessories,Ties,25341541
+2022,BLONZE,Accessories,Umbrellas,1797828
+2022,BLONZE,Accessories,Wallets,112071531
+2022,BLONZE,Accessories,Watches,271661268
+2022,BLONZE,Accessories,Water Bottle,768600
+2022,BLONZE,Apparel,Apparel Set,11762377
+2022,BLONZE,Apparel,Bottomwear,309196164
+2022,BLONZE,Apparel,Dress,57339435
+2022,BLONZE,Apparel,Innerwear,202194700
+2022,BLONZE,Apparel,Loungewear and Nightwear,58147907
+2022,BLONZE,Apparel,Saree,48015944
+2022,BLONZE,Apparel,Socks,941389
+2022,BLONZE,Apparel,Topwear,1764639388
+2022,BLONZE,Footwear,Flip Flops,107198606
+2022,BLONZE,Footwear,Sandal,107233407
+2022,BLONZE,Footwear,Shoes,842149358
+2022,BLONZE,Free Items,Free Gifts,10392977
+2022,BLONZE,Free Items,Vouchers,274350
+2022,BLONZE,Home,Home Furnishing,118277
+2022,BLONZE,Personal Care,Bath and Body,1847795
+2022,BLONZE,Personal Care,Beauty Accessories,235550
+2022,BLONZE,Personal Care,Eyes,6775178
+2022,BLONZE,Personal Care,Fragrance,120745945
+2022,BLONZE,Personal Care,Hair,1585928
+2022,BLONZE,Personal Care,Lips,59722829
+2022,BLONZE,Personal Care,Makeup,29224017
+2022,BLONZE,Personal Care,Nails,40717068
+2022,BLONZE,Personal Care,Perfumes,838611
+2022,BLONZE,Personal Care,Skin,7617347
+2022,BLONZE,Personal Care,Skin Care,9500572
+2022,BLONZE,Sporting Goods,Sports Equipment,3530555
+2022,BLONZE,Sporting Goods,Wristbands,229012
+2022,GOLD,Accessories,Accessories,68950369
+2022,GOLD,Accessories,Bags,1567374079
+2022,GOLD,Accessories,Belts,404473202
+2022,GOLD,Accessories,Cufflinks,58962873
+2022,GOLD,Accessories,Eyewear,525831842
+2022,GOLD,Accessories,Gloves,10953708
+2022,GOLD,Accessories,Headwear,136632535
+2022,GOLD,Accessories,Jewellery,520420492
+2022,GOLD,Accessories,Mufflers,18132131
+2022,GOLD,Accessories,Scarves,59870535
+2022,GOLD,Accessories,Shoe Accessories,12722462
+2022,GOLD,Accessories,Socks,342148561
+2022,GOLD,Accessories,Sports Accessories,866517
+2022,GOLD,Accessories,Stoles,45860756
+2022,GOLD,Accessories,Ties,138455783
+2022,GOLD,Accessories,Umbrellas,2287384
+2022,GOLD,Accessories,Wallets,486280269
+2022,GOLD,Accessories,Watches,1236825465
+2022,GOLD,Accessories,Water Bottle,1615027
+2022,GOLD,Apparel,Apparel Set,54137677
+2022,GOLD,Apparel,Bottomwear,1384691558
+2022,GOLD,Apparel,Dress,242860534
+2022,GOLD,Apparel,Innerwear,925847420
+2022,GOLD,Apparel,Loungewear and Nightwear,237258049
+2022,GOLD,Apparel,Saree,208655717
+2022,GOLD,Apparel,Socks,7391608
+2022,GOLD,Apparel,Topwear,7695892500
+2022,GOLD,Footwear,Flip Flops,460902612
+2022,GOLD,Footwear,Sandal,466203587
+2022,GOLD,Footwear,Shoes,3693613992
+2022,GOLD,Free Items,Free Gifts,51673501
+2022,GOLD,Free Items,Vouchers,246716
+2022,GOLD,Home,Home Furnishing,777941
+2022,GOLD,Personal Care,Bath and Body,6488919
+2022,GOLD,Personal Care,Beauty Accessories,2478885
+2022,GOLD,Personal Care,Eyes,17523402
+2022,GOLD,Personal Care,Fragrance,505806136
+2022,GOLD,Personal Care,Hair,10194237
+2022,GOLD,Personal Care,Lips,246382541
+2022,GOLD,Personal Care,Makeup,159226188
+2022,GOLD,Personal Care,Nails,171133392
+2022,GOLD,Personal Care,Perfumes,1578539
+2022,GOLD,Personal Care,Skin,37752321
+2022,GOLD,Personal Care,Skin Care,39094766
+2022,GOLD,Sporting Goods,Sports Equipment,8113262
+2022,GOLD,Sporting Goods,Wristbands,2255763
+2022,SILVER,Accessories,Accessories,42648408
+2022,SILVER,Accessories,Bags,865001784
+2022,SILVER,Accessories,Belts,257388908
+2022,SILVER,Accessories,Cufflinks,25937237
+2022,SILVER,Accessories,Eyewear,284600536
+2022,SILVER,Accessories,Gloves,3987380
+2022,SILVER,Accessories,Headwear,78965090
+2022,SILVER,Accessories,Jewellery,313197707
+2022,SILVER,Accessories,Mufflers,7094247
+2022,SILVER,Accessories,Scarves,36404093
+2022,SILVER,Accessories,Shoe Accessories,6678564
+2022,SILVER,Accessories,Socks,186246101
+2022,SILVER,Accessories,Sports Accessories,488300
+2022,SILVER,Accessories,Stoles,28994639
+2022,SILVER,Accessories,Ties,67628017
+2022,SILVER,Accessories,Umbrellas,3317146
+2022,SILVER,Accessories,Wallets,255859712
+2022,SILVER,Accessories,Watches,671070117
+2022,SILVER,Accessories,Water Bottle,2875882
+2022,SILVER,Apparel,Apparel Set,28231467
+2022,SILVER,Apparel,Bottomwear,802012513
+2022,SILVER,Apparel,Dress,127839296
+2022,SILVER,Apparel,Innerwear,514208903
+2022,SILVER,Apparel,Loungewear and Nightwear,126839410
+2022,SILVER,Apparel,Saree,121658037
+2022,SILVER,Apparel,Socks,3592693
+2022,SILVER,Apparel,Topwear,4332220319
+2022,SILVER,Footwear,Flip Flops,262933361
+2022,SILVER,Footwear,Sandal,266290542
+2022,SILVER,Footwear,Shoes,2067182174
+2022,SILVER,Free Items,Free Gifts,27267521
+2022,SILVER,Free Items,Vouchers,474573
+2022,SILVER,Home,Home Furnishing,419027
+2022,SILVER,Personal Care,Bath and Body,2325350
+2022,SILVER,Personal Care,Eyes,12804019
+2022,SILVER,Personal Care,Fragrance,283940684
+2022,SILVER,Personal Care,Hair,3010145
+2022,SILVER,Personal Care,Lips,143922646
+2022,SILVER,Personal Care,Makeup,87279399
+2022,SILVER,Personal Care,Nails,92235677
+2022,SILVER,Personal Care,Perfumes,1622117
+2022,SILVER,Personal Care,Skin,19982284
+2022,SILVER,Personal Care,Skin Care,25673667
+2022,SILVER,Sporting Goods,Sports Equipment,3979031
+2022,SILVER,Sporting Goods,Wristbands,630101
+2022,VIP,Accessories,Accessories,82316852
+2022,VIP,Accessories,Bags,1697513700
+2022,VIP,Accessories,Belts,456661753
+2022,VIP,Accessories,Cufflinks,63128189
+2022,VIP,Accessories,Eyewear,610255084
+2022,VIP,Accessories,Gloves,12197038
+2022,VIP,Accessories,Headwear,170988841
+2022,VIP,Accessories,Jewellery,589224961
+2022,VIP,Accessories,Mufflers,23562476
+2022,VIP,Accessories,Perfumes,1764383
+2022,VIP,Accessories,Scarves,71509576
+2022,VIP,Accessories,Shoe Accessories,16895324
+2022,VIP,Accessories,Socks,393621487
+2022,VIP,Accessories,Sports Accessories,1564684
+2022,VIP,Accessories,Stoles,48218848
+2022,VIP,Accessories,Ties,139445940
+2022,VIP,Accessories,Umbrellas,3429525
+2022,VIP,Accessories,Wallets,518008654
+2022,VIP,Accessories,Watches,1451727251
+2022,VIP,Accessories,Water Bottle,3875667
+2022,VIP,Apparel,Apparel Set,56821570
+2022,VIP,Apparel,Bottomwear,1483625801
+2022,VIP,Apparel,Dress,282654071
+2022,VIP,Apparel,Innerwear,1031422036
+2022,VIP,Apparel,Loungewear and Nightwear,266306706
+2022,VIP,Apparel,Saree,236634714
+2022,VIP,Apparel,Socks,6642015
+2022,VIP,Apparel,Topwear,8661320866
+2022,VIP,Footwear,Flip Flops,511751502
+2022,VIP,Footwear,Sandal,551209386
+2022,VIP,Footwear,Shoes,4149975095
+2022,VIP,Free Items,Free Gifts,54386059
+2022,VIP,Free Items,Vouchers,324509
+2022,VIP,Home,Home Furnishing,621762
+2022,VIP,Personal Care,Bath and Body,4710545
+2022,VIP,Personal Care,Beauty Accessories,1959085
+2022,VIP,Personal Care,Eyes,23551915
+2022,VIP,Personal Care,Fragrance,590709616
+2022,VIP,Personal Care,Hair,11216917
+2022,VIP,Personal Care,Lips,307802181
+2022,VIP,Personal Care,Makeup,180793392
+2022,VIP,Personal Care,Nails,180108501
+2022,VIP,Personal Care,Perfumes,5251789
+2022,VIP,Personal Care,Skin,35211264
+2022,VIP,Personal Care,Skin Care,42943830
+2022,VIP,Sporting Goods,Sports Equipment,7362940
+2022,VIP,Sporting Goods,Wristbands,2014113
+2022,VVIP,Accessories,Accessories,22800990
+2022,VVIP,Accessories,Bags,456631530
+2022,VVIP,Accessories,Belts,118862721
+2022,VVIP,Accessories,Cufflinks,14611788
+2022,VVIP,Accessories,Eyewear,151855118
+2022,VVIP,Accessories,Gloves,3272429
+2022,VVIP,Accessories,Headwear,40945119
+2022,VVIP,Accessories,Jewellery,156859615
+2022,VVIP,Accessories,Mufflers,3632270
+2022,VVIP,Accessories,Scarves,17352871
+2022,VVIP,Accessories,Shoe Accessories,3933423
+2022,VVIP,Accessories,Socks,99077683
+2022,VVIP,Accessories,Stoles,12333955
+2022,VVIP,Accessories,Ties,35124277
+2022,VVIP,Accessories,Umbrellas,1099607
+2022,VVIP,Accessories,Wallets,126334281
+2022,VVIP,Accessories,Watches,363056041
+2022,VVIP,Accessories,Water Bottle,788897
+2022,VVIP,Apparel,Apparel Set,15731637
+2022,VVIP,Apparel,Bottomwear,403065371
+2022,VVIP,Apparel,Dress,68860006
+2022,VVIP,Apparel,Innerwear,256295068
+2022,VVIP,Apparel,Loungewear and Nightwear,62560514
+2022,VVIP,Apparel,Saree,60696531
+2022,VVIP,Apparel,Socks,2520032
+2022,VVIP,Apparel,Topwear,2257576326
+2022,VVIP,Footwear,Flip Flops,124723548
+2022,VVIP,Footwear,Sandal,128643399
+2022,VVIP,Footwear,Shoes,1078340607
+2022,VVIP,Free Items,Free Gifts,14025188
+2022,VVIP,Personal Care,Bath and Body,2894463
+2022,VVIP,Personal Care,Beauty Accessories,307034
+2022,VVIP,Personal Care,Eyes,5010853
+2022,VVIP,Personal Care,Fragrance,150339807
+2022,VVIP,Personal Care,Hair,2327820
+2022,VVIP,Personal Care,Lips,86074092
+2022,VVIP,Personal Care,Makeup,40484434
+2022,VVIP,Personal Care,Nails,45143534
+2022,VVIP,Personal Care,Perfumes,307489
+2022,VVIP,Personal Care,Skin,8690053
+2022,VVIP,Personal Care,Skin Care,14545230
+2022,VVIP,Sporting Goods,Sports Equipment,3325850
+2022,VVIP,Sporting Goods,Wristbands,935479
