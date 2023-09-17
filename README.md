@@ -1,5 +1,5 @@
 ## [AIB 18기] Team Project 2
-### 이커머스 플랫폼 문제 진단 프로젝트
+### 이커머스 플랫폼 문제 진단 프로젝트</br>
 
 
 
@@ -20,7 +20,7 @@
 👥 팀원  
 - 정경호 (팀장)  
 - 김영준   
-- 김유나(https://github.com/oppa-dev) 
+- [김유나](https://github.com/oppa-dev) 
   
 :page_facing_up: 
 [Organic Notion](https://www.notion.so/0349534676a54839bb8f515d6c76575f?pvs=4)
