@@ -23,4 +23,4 @@
 - [김유나](https://github.com/oppa-dev) 
   
 :page_facing_up: 
-[Organic Notion](https://www.notion.so/0349534676a54839bb8f515d6c76575f?pvs=4)
+[Organic팀 Notion](https://www.notion.so/0349534676a54839bb8f515d6c76575f?pvs=4)
